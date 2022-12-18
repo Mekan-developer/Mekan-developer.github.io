@@ -395,7 +395,7 @@ h1,h2,h3,h4,h5
     h6{font-size: 14px;}
 }
 @media screen and (max-width:500px){
-    #portfolio .portfolio-thumb .portfolio-overlay{padding-top: 30px;}
+    #portfolio .portfolio-thumb .portfolio-overlay{padding-top: 10px;}
     h4{font-size: 14px;}
     h5{font-size: 12px;}
     h6{font-size: 12px;}
